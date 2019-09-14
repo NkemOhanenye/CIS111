@@ -1,4 +1,4 @@
 # CIS111
-The projects I did when in my first programming class
+The projects I did in my first programming class
 
 Spring 2017
