@@ -1,4 +1,4 @@
-package Labs;/*
+/*
  Name: Nkem Ohanenye
  Date: 2/14/17
  Purpose: to write a program to
@@ -30,5 +30,6 @@ public class Lab2 {
         System.out.println("The average test score for " + Student3 + " is: " + ((Student3TS1+Student3TS2)/2));
         //prints the averages of the tests for each student
         System.out.println("The class average is: " + (((Student1TS1+Student1TS2)/2) + ((Student2TS2+Student2TS2)/2) + ((Student3TS1+Student3TS2)/2))/3);
+        //prints the class average
     }
 }
